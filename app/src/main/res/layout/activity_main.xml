@@ -12,12 +12,14 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:id="@+id/edittext_n1"
+        android:inputType="number"
         android:hint="@string/digite_n_mero_1" />
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
+        android:inputType="number"
         android:id="@+id/edittext_n2"
         android:hint="@string/digite_n_mero_2" />
 
